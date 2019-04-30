@@ -24,6 +24,8 @@ document.addEventListener('DOMContentLoaded', () => {
           {
             message: text,
             to: [
+              "7983643897",
+              "9456536786",
               "7275861649"
             ]
           }
